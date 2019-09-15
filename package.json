@@ -1,0 +1,33 @@
+{
+  "name": "login_tst1",
+  "version": "1.0.0",
+  "description": "first login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KMery",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express-session": "^1.16.2",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KMery/nodejs-login1.git"
+  },
+  "keywords": [
+    "login",
+    "nodejs",
+    "express",
+    "auth",
+    "mysql"
+  ],
+  "bugs": {
+    "url": "https://github.com/KMery/nodejs-login1/issues"
+  },
+  "homepage": "https://github.com/KMery/nodejs-login1#readme"
+}
